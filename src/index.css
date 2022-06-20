@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  background-color: #413d3d !important;
+}
+
+.bg-dark{
+  background-color: gray !important;
+}
+
+.card-body{
+  background-color: #2f2828;
+  color: white;
+}
